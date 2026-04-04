@@ -1,0 +1,25 @@
+{
+  "project_root": "/mnt/data/cardio_digital_twin",
+  "zip": "/mnt/data/cardio_digital_twin_project.zip",
+  "files": [
+    "README.md",
+    "requirements.txt",
+    "main.py",
+    "biogears_data/cardiovascular_data.csv",
+    "simulation/__init__.py",
+    "simulation/load_biogears_data.py",
+    "simulation/probabilistic_inputs.py",
+    "simulation/event_simulator.py",
+    "simulation/digital_twin_model.py",
+    "analytics/__init__.py",
+    "analytics/risk_detection.py",
+    "analytics/instability.py",
+    "analytics/recovery.py",
+    "analytics/load_index.py",
+    "analytics/monte_carlo.py",
+    "visualization/__init__.py",
+    "visualization/health_indicator.py",
+    "visualization/timeline.py",
+    "visualization/dashboard.py"
+  ]
+}
